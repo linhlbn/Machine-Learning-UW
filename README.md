@@ -5,12 +5,12 @@
 
 | Week | Description |
 | ----------- | ----------- |
-| 1 | Welcome to Machine Learning |
-| 2 | Regression: Predicting House Prices|
-| 3 | Classification: Analyzing Sentiment |
-| 4 | Clustering and Similarity: Retrieving Documents |
-| 5 | Recommending Products |
-| 6 | Deep Learning: Searching for Images |
+| 1 | Introduce the power of machine learning in intelligent applications at the present and future |
+| 2 | Build a application that make predictions from data (house prices) by using Regression |
+| 3 | Use the classification method to guess whether a person felt positively or negatively about an experience just from a short review |
+| 4 | Build an intelligent document retrieval system for Wikipedia entries |
+| 5 | Build a simple recommender system (to be more specific - recommend songs) |
+| 6 | Build an image classifier and an intelligent image retrieval system with deep learning |
 
 ##### Regression
 
