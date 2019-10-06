@@ -1,7 +1,7 @@
 # Machine Learning Specialization
 ## Offerd by University of Washington
 
-##### Machine learning foudation: A case study approach
+##### Course 1: Machine learning foudation: A case study approach
 
 | Week | Description |
 | ----------- | ----------- |
@@ -12,7 +12,7 @@
 | 5 | Build a simple recommender system (to be more specific - recommend songs) |
 | 6 | Build an image classifier and an intelligent image retrieval system with deep learning |
 
-##### Regression
+##### Course 2: Regression
 
 | Week | Description |
 | ----------- | ----------- |
